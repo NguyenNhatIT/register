@@ -1,0 +1,16 @@
+{
+    "description": "NguyenNhatIT GitHub Pages",
+    "domain": "localplayer.dev",
+    "subdomain": "nguyennhatit",
+    
+    "owner": {
+        "repo": "https://github.com/NguyenNhatIT/NguyenNhatIT",
+        "email": "minhtientiny@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "nguyennhatit.github.io"
+    },
+
+    "proxied": false
+}
